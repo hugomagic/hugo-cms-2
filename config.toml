@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Ink"
-theme = "ink"
+theme = "Ink"
 paginate = 5
 
 copyright = "© Copyright notice"
